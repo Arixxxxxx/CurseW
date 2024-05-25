@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "380390985009",
+    "firebase_url": "https://teamproject-2c7aa-default-rtdb.firebaseio.com",
+    "project_id": "teamproject-2c7aa",
+    "storage_bucket": "teamproject-2c7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380390985009:android:3391e13f1732e117faf410",
+        "android_client_info": {
+          "package_name": "com.WazerC.CurseW"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD9KZYVdUiJp8jgE-ZyZkiB-k_dQ7ndhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
