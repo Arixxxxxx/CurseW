@@ -225,8 +225,6 @@ public class GameManager : MonoBehaviour
         userDataForSeverUpload.LevelUpCount = TotalLvUpCount;
         userDataForSeverUpload.playerDeadCount = TotalPlayerDead;
 
-        Debug.Log($"{userDataForSeverUpload.battleTime} / {userDataForSeverUpload.playerDeadCount}");
-        Debug.Log($"{userDataForSeverUpload.bossKillCount} / {userDataForSeverUpload.totalKillEnemy} / {userDataForSeverUpload.LevelUpCount}");
         DataManager.inst.F_SaveGameAndServerUpload(userDataForSeverUpload);
     }
     /// <summary>

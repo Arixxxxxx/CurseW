@@ -19,7 +19,6 @@ public class Text_Tyiping : MonoBehaviour
     {
         mainText = GetComponent<TMP_Text>();
         sceneNum = SceneManager.GetActiveScene().buildIndex;
-        Debug.Log(sceneNum);
     }
 
     string GetText;
